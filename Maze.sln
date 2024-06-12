@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{99AB5FEA-E737-4116-8934-1F63F7C33133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeLib", "MazeLib\MazeLib.csproj", "{70066919-F9A2-4C9B-A7B2-904F55FB53F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AB5FEA-E737-4116-8934-1F63F7C33133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AB5FEA-E737-4116-8934-1F63F7C33133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AB5FEA-E737-4116-8934-1F63F7C33133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AB5FEA-E737-4116-8934-1F63F7C33133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70066919-F9A2-4C9B-A7B2-904F55FB53F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70066919-F9A2-4C9B-A7B2-904F55FB53F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70066919-F9A2-4C9B-A7B2-904F55FB53F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70066919-F9A2-4C9B-A7B2-904F55FB53F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
